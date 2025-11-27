@@ -219,7 +219,7 @@ Thread indexes are linear. When accessing matrix elements, we can use either 2D 
 <iframe src="https://ghpages.vvnasantosh.net/visualizations/matrix_2d_to_1d_notebook" width="160%" height="1280px" style="border:none;zoom:0.6;max-width:100%;display:block;margin:0">
 </iframe>
 
-**Image 5: CUDA 2D to 1D Matrix Indexing**  
+**Image 5: CUDA 2D to 1D Matrix Indexing**
 
 <iframe src="https://ghpages.vvnasantosh.net/visualizations/matrix_3d_to_1d_notebook" width="140%" height="1900px" style="border:none;zoom:0.6;max-width:100%;display:block;margin:0">
 </iframe>
@@ -675,3 +675,9 @@ In upcoming blogs, we'll delve into GEMM Optimizations by building on the concep
 * **Advanced Optimizations** - Warp & Register Tiling
     
 * **Introduction to CUDA Libraries** - Importance of **CUTLASS & cuBLAS** in GEMM context
+    
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">All Visualizations &amp; images in this post were generated using Claude to enhance understanding of GPU architecture and memory patterns.</div>
+</div>
